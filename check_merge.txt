@@ -1,2 +1,2 @@
 file to test merge conflict
-adding this line from the main branch
+writing this line from new branch
