@@ -1,2 +1,3 @@
 file to test branching in git!
 file to test merge_conflict in git!
+making changes in master branch as my changes are 'stashed away'!
