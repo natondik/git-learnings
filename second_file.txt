@@ -1,2 +1,2 @@
 file to test branching in git!
-adding a new line from master branch to test merge conflict!
+file to test merge_conflict in git!
